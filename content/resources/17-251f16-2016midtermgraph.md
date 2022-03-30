@@ -8,6 +8,7 @@ image_metadata:
   credit: no credit line required
   image-alt: A graph showing the ideal points of the marginal tax rate for people
     who make a million dollars a year.
+parent_uid: a1610327-d32e-85b2-b2b1-53141c5d46c8
 resourcetype: Image
 title: 17-251F16-2016MidtermGraph.jpg
 uid: 01f4a6f9-e80b-1a5c-27c1-6737df5a8d37

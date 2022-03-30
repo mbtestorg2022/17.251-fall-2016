@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-the-american-political-process-spring-2004/) or receiving a 4 or 5 on the Advanced Placement Program® [United States Government and Politics](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/2259.html) exam.
+[_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-the-american-political-process-spring-2004) or receiving a 4 or 5 on the Advanced Placement Program® [United States Government and Politics](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/2259.html) exam.
 
 Course Description
 ------------------
